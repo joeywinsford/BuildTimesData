@@ -1,0 +1,2815 @@
+[{
+  "Start": "2016-03-30T10:32:49.8852898+01:00",
+  "Time": 6994,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T10:32:50.5363367+01:00",
+      "Time": 4132,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T10:32:54.6846421+01:00",
+      "Time": 2109,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:03:19.7162025+01:00",
+  "Time": 15418,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:03:20.1192347+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:03:20.1362352+01:00",
+      "Time": 2302,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:03:22.5304097+01:00",
+      "Time": 8810,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:03:31.4180632+01:00",
+      "Time": 3569,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:07:56.8699281+01:00",
+  "Time": 4486,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:07:57.1619519+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:07:57.1839525+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:07:57.2339559+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:07:57.2419557+01:00",
+      "Time": 4010,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:09:10.899497+01:00",
+  "Time": 4841,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:09:11.364531+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:09:11.4105344+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:09:11.4595377+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:09:11.467539+01:00",
+      "Time": 4151,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:10:35.9948701+01:00",
+  "Time": 4730,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:10:36.3778974+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:10:36.4189082+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:10:36.4979077+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:10:36.5049081+01:00",
+      "Time": 4097,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:11:29.7126262+01:00",
+  "Time": 4797,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:11:30.0756532+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:11:30.0996567+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:11:30.1436586+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:11:30.1516588+01:00",
+      "Time": 4243,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:23:41.8019174+01:00",
+  "Time": 13385,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:23:42.1949546+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:23:42.2169488+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:23:42.2229498+01:00",
+      "Time": 9612,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:23:51.9026476+01:00",
+      "Time": 3157,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:24:19.8264797+01:00",
+  "Time": 4509,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:24:20.3255172+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:24:20.3765215+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:24:20.4585267+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:24:20.4665272+01:00",
+      "Time": 3751,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:26:03.6213735+01:00",
+  "Time": 2510,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:26:03.9343974+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:26:03.9613993+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:26:04.0004007+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:26:04.018402+01:00",
+      "Time": 2057,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:30:24.0951329+01:00",
+  "Time": 7079,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:30:24.387154+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:30:24.4161551+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:30:24.4221576+01:00",
+      "Time": 6602,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:43:16.0092409+01:00",
+  "Time": 224,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": []
+},{
+  "Start": "2016-03-30T11:54:21.2758571+01:00",
+  "Time": 11458,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:54:21.5708824+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:54:21.6128848+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:54:21.6198902+01:00",
+      "Time": 7889,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:54:29.5775209+01:00",
+      "Time": 3027,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:56:11.8101183+01:00",
+  "Time": 3909,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:56:12.1331489+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:56:12.1701476+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:56:12.2441528+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:56:12.2521541+01:00",
+      "Time": 3366,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:56:56.461878+01:00",
+  "Time": 9937,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T11:56:56.7278979+01:00",
+      "Time": 0,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:56:56.7408983+01:00",
+      "Time": 0,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:56:56.7458974+01:00",
+      "Time": 6371,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T11:57:03.1934165+01:00",
+      "Time": 3082,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T11:57:50.545717+01:00",
+  "Time": 256,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": []
+},{
+  "Start": "2016-03-30T12:00:42.0567794+01:00",
+  "Time": 2408,
+  "Solution": {
+    "Name": "DocumentProduction"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T12:00:42.3378056+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.InteropToOpenXml",
+        "Id": "f99d52ce-fcca-4eb2-a421-86ba37750afe"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:00:42.3558044+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction",
+        "Id": "fc9b4330-c98e-4260-abf6-b9c03db725c2"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:00:42.3858061+01:00",
+      "Time": 0,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.Clients",
+        "Id": "735efd24-649b-48b0-be5d-0a1aba58870c"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:00:42.3978075+01:00",
+      "Time": 1945,
+      "Project": {
+        "Name": "Solicitors.DocumentProduction.UnitTests",
+        "Id": "eeb03e8d-1ed6-4d9a-9520-8a023e2c166b"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T12:13:32.9798148+01:00",
+  "Time": 54510,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T12:13:39.3342809+01:00",
+      "Time": 340,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:13:39.7893145+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:13:38.1381939+01:00",
+      "Time": 45116,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T12:14:50.8565365+01:00",
+  "Time": 199032,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T12:15:00.0232101+01:00",
+      "Time": 9,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:00.5792507+01:00",
+      "Time": 69,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.038284+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.1462917+01:00",
+      "Time": 7,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.2042961+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.2262982+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.3253053+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.3513075+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.3813087+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.6543288+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.3973097+01:00",
+      "Time": 3109,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:04.5235408+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPICommon",
+        "Id": "5f8f677a-bce3-4fed-8375-9e3ec891fbd4"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:04.5845443+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.TAPIProvider",
+        "Id": "11d1153c-fedf-4308-8fbb-a9ef8fc66286"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:04.5985474+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.TAPISubscriber",
+        "Id": "fd79900a-86b6-4dd7-9bdf-ec5f375ce711"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:04.6125467+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:04.6265476+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:04.6405495+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:00.7002603+01:00",
+      "Time": 6050,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.8713455+01:00",
+      "Time": 4951,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:06.8757143+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:06.8937145+01:00",
+      "Time": 15,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:01.2382996+01:00",
+      "Time": 8150,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:09.4689051+01:00",
+      "Time": 7428,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:16.9754558+01:00",
+      "Time": 1216,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:18.3445565+01:00",
+      "Time": 1559,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:18.3255539+01:00",
+      "Time": 13923,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:32.2945812+01:00",
+      "Time": 8446,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:40.837209+01:00",
+      "Time": 6454,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:40.850212+01:00",
+      "Time": 7099,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:47.4156934+01:00",
+      "Time": 11360,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:58.9905412+01:00",
+      "Time": 18361,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:15:59.0005423+01:00",
+      "Time": 18808,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:16:17.9149389+01:00",
+      "Time": 34714,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommon",
+        "Id": "4ade02c6-b81c-4f1d-be6e-3f53f529148b"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:16:52.7594928+01:00",
+      "Time": 4831,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:16:57.6468524+01:00",
+      "Time": 3735,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:17:01.4531321+01:00",
+      "Time": 6804,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:17:08.3556383+01:00",
+      "Time": 14838,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:17:01.4651324+01:00",
+      "Time": 21832,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:17:23.3547401+01:00",
+      "Time": 39973,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T12:18:03.8657185+01:00",
+      "Time": 1643,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T14:17:31.4818402+01:00",
+  "Time": 95136,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T14:17:34.0650295+01:00",
+      "Time": 4,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.3620524+01:00",
+      "Time": 32,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.4860604+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.5520668+01:00",
+      "Time": 7,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.5880694+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.6050698+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.6530741+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.6780758+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.6960768+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.8110853+01:00",
+      "Time": 4,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.4110545+01:00",
+      "Time": 1432,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.8671628+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.8841643+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.8971651+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPICommon",
+        "Id": "5f8f677a-bce3-4fed-8375-9e3ec891fbd4"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.9111655+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPIProvider",
+        "Id": "11d1153c-fedf-4308-8fbb-a9ef8fc66286"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.9251675+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPISubscriber",
+        "Id": "fd79900a-86b6-4dd7-9bdf-ec5f375ce711"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.9371681+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.9471689+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:35.9621698+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.7070776+01:00",
+      "Time": 3663,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.8260863+01:00",
+      "Time": 3665,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:34.6170712+01:00",
+      "Time": 4089,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:38.7333729+01:00",
+      "Time": 731,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.4774277+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.5094314+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.5224306+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.5584332+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.5764356+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.6004372+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.6534413+01:00",
+      "Time": 18,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.693447+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.7094451+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:17:39.7404478+01:00",
+      "Time": 26204,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommon",
+        "Id": "4ade02c6-b81c-4f1d-be6e-3f53f529148b"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:18:06.0283811+01:00",
+      "Time": 3781,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:18:09.8386586+01:00",
+      "Time": 4503,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:18:14.4019942+01:00",
+      "Time": 2177,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:18:16.6031559+01:00",
+      "Time": 3409,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:18:14.4129943+01:00",
+      "Time": 12089,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:18:26.5838891+01:00",
+      "Time": 36152,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:19:03.0135649+01:00",
+      "Time": 1586,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T14:32:29.1330232+01:00",
+  "Time": 95694,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T14:32:31.6542088+01:00",
+      "Time": 8,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.0612385+01:00",
+      "Time": 20,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.1312434+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.1782469+01:00",
+      "Time": 7,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.2122508+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.2242498+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.269255+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.310257+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.3302585+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.3782617+01:00",
+      "Time": 4,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.1012419+01:00",
+      "Time": 899,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.0273091+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.0993169+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.1123161+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPICommon",
+        "Id": "5f8f677a-bce3-4fed-8375-9e3ec891fbd4"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.1273175+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPIProvider",
+        "Id": "11d1153c-fedf-4308-8fbb-a9ef8fc66286"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.1403178+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPISubscriber",
+        "Id": "fd79900a-86b6-4dd7-9bdf-ec5f375ce711"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.1533201+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.1653191+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:33.1763212+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.3932627+01:00",
+      "Time": 1963,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.3422587+01:00",
+      "Time": 2558,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:32.2362516+01:00",
+      "Time": 3120,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:35.3864823+01:00",
+      "Time": 938,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.3335512+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.3585597+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.3695541+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.3995576+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.4125568+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.4295621+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.477563+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.4965637+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.5095652+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:32:36.5325663+01:00",
+      "Time": 26421,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommon",
+        "Id": "4ade02c6-b81c-4f1d-be6e-3f53f529148b"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:33:03.0705174+01:00",
+      "Time": 3213,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:33:06.3497575+01:00",
+      "Time": 3751,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:33:10.1640389+01:00",
+      "Time": 2783,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:33:13.0152492+01:00",
+      "Time": 5032,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:33:10.1750378+01:00",
+      "Time": 15489,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:33:25.7331836+01:00",
+      "Time": 35107,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:34:01.1297815+01:00",
+      "Time": 1414,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T14:45:15.5440873+01:00",
+  "Time": 107064,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T14:45:17.0692163+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.3832428+01:00",
+      "Time": 37,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.4762504+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.5502576+01:00",
+      "Time": 7,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.5932615+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.6042617+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.6722673+01:00",
+      "Time": 7,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.7172731+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.7342729+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.7772765+01:00",
+      "Time": 10,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.4332461+01:00",
+      "Time": 625,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.4213328+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.4393355+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.463337+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPICommon",
+        "Id": "5f8f677a-bce3-4fed-8375-9e3ec891fbd4"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.4753377+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPIProvider",
+        "Id": "11d1153c-fedf-4308-8fbb-a9ef8fc66286"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.4953395+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPISubscriber",
+        "Id": "fd79900a-86b6-4dd7-9bdf-ec5f375ce711"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.5073399+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.5313422+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:18.5423432+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.7462745+01:00",
+      "Time": 1342,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.6132629+01:00",
+      "Time": 2514,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:20.1584834+01:00",
+      "Time": 1635,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:17.8232831+01:00",
+      "Time": 3998,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:21.8316296+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:21.8666322+01:00",
+      "Time": 4,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:21.878633+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:21.9136351+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:21.9316359+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:21.9506379+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:22.0126439+01:00",
+      "Time": 16,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:22.0476479+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:22.0636496+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:22.0986613+01:00",
+      "Time": 27491,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommon",
+        "Id": "4ade02c6-b81c-4f1d-be6e-3f53f529148b"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:49.6740323+01:00",
+      "Time": 4424,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:54.1404199+01:00",
+      "Time": 3797,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:58.0037526+01:00",
+      "Time": 2399,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:46:00.5099708+01:00",
+      "Time": 4081,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:45:58.0147532+01:00",
+      "Time": 13027,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:46:11.1338877+01:00",
+      "Time": 47908,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T14:46:59.3309108+01:00",
+      "Time": 1346,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T15:08:15.2785635+01:00",
+  "Time": 136814,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T15:08:20.3339335+01:00",
+      "Time": 11,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:20.8289706+01:00",
+      "Time": 88,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:21.0089824+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:21.1049903+01:00",
+      "Time": 8,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:21.1549933+01:00",
+      "Time": 34,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:21.3370069+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:22.8981221+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:22.9241228+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:22.9541259+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:23.6271756+01:00",
+      "Time": 4,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:23.1051381+01:00",
+      "Time": 4451,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:28.3495225+01:00",
+      "Time": 236,
+      "Project": {
+        "Name": "IRIS.Law.TAPICommon",
+        "Id": "5f8f677a-bce3-4fed-8375-9e3ec891fbd4"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:21.5140225+01:00",
+      "Time": 7893,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:29.4486049+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "IRIS.Law.TAPIProvider",
+        "Id": "11d1153c-fedf-4308-8fbb-a9ef8fc66286"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:29.4866051+01:00",
+      "Time": 2138,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:20.9819816+01:00",
+      "Time": 10934,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:23.6431775+01:00",
+      "Time": 8340,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:31.9947903+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.055795+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.TAPISubscriber",
+        "Id": "fd79900a-86b6-4dd7-9bdf-ec5f375ce711"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.0957988+01:00",
+      "Time": 6,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.1348002+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.1528019+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.1718029+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.2208062+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.2468084+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.379819+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.3918204+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.4058205+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.4318223+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.5368305+01:00",
+      "Time": 7,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.600834+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.6238355+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:08:32.6928399+01:00",
+      "Time": 62614,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommon",
+        "Id": "4ade02c6-b81c-4f1d-be6e-3f53f529148b"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:09:35.335443+01:00",
+      "Time": 3211,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:09:38.5696814+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:09:38.5976831+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:09:38.6256859+01:00",
+      "Time": 12,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:09:38.6486874+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:09:38.6596879+01:00",
+      "Time": 48883,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:10:27.5486057+01:00",
+      "Time": 1380,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T15:22:07.5454582+01:00",
+  "Time": 32855,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T15:22:11.6057551+01:00",
+      "Time": 23,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.0997916+01:00",
+      "Time": 175,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.3468103+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.6348314+01:00",
+      "Time": 151,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.9558543+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.9698559+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:13.6559045+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:13.8509202+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:13.8839232+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:14.1279408+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.359811+01:00",
+      "Time": 3925,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:13.8709218+01:00",
+      "Time": 3754,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:12.9818569+01:00",
+      "Time": 4821,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:14.2479492+01:00",
+      "Time": 3667,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:17.9272212+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:17.954222+01:00",
+      "Time": 2934,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:20.9054403+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:20.9224388+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:20.9414406+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:20.9514418+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:20.9934462+01:00",
+      "Time": 6,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.0114463+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.0254483+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.0684532+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.0844524+01:00",
+      "Time": 9,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.1184544+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.1784589+01:00",
+      "Time": 8,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.2084612+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.2264629+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:21.2384718+01:00",
+      "Time": 3218,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:24.5007024+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:24.5177044+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:24.5507081+01:00",
+      "Time": 5346,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:24.5277074+01:00",
+      "Time": 5573,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:30.1091146+01:00",
+      "Time": 4559,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:22:35.0594784+01:00",
+      "Time": 2412,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+},{
+  "Start": "2016-03-30T15:30:07.7200235+01:00",
+  "Time": 57675,
+  "Solution": {
+    "Name": "_BuildSolution"
+  },
+  "Projects": [
+    {
+      "Start": "2016-03-30T15:30:16.8986972+01:00",
+      "Time": 11,
+      "Project": {
+        "Name": "Solicitors.Branding",
+        "Id": "888bedfa-249a-4f6b-b1e7-84ca7cb41c7d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.3187277+01:00",
+      "Time": 57,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonData",
+        "Id": "8da2ea13-cb60-4eb8-9287-473f661dff4c"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.4637393+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmCommonData",
+        "Id": "83ed4d77-ad11-4d27-b19b-3b1eeb9a1e9e"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.7037564+01:00",
+      "Time": 122,
+      "Project": {
+        "Name": "IRISLegal",
+        "Id": "8300d2a6-1798-468e-a2d8-01857524a67a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.8707693+01:00",
+      "Time": 75,
+      "Project": {
+        "Name": "EwsService",
+        "Id": "0e23968f-d70f-4a1d-baee-4cece5c31cd2"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.9767749+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmData",
+        "Id": "00d7d3b4-f9e9-4d61-9717-dcafee37068e"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:18.0067776+01:00",
+      "Time": 137,
+      "Project": {
+        "Name": "IRISLegal.EntityFramework",
+        "Id": "58c9f66c-bdab-4f49-8537-c2ac4684584f"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:18.357804+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ClientInterfaces",
+        "Id": "d679c9ce-f739-4619-a1cd-2b48a14cce3f"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.4777393+01:00",
+      "Time": 2452,
+      "Project": {
+        "Name": "IRIS.Law.DiaryCommon",
+        "Id": "18b55ca5-457a-4999-9b99-5d88c1c9e4f6"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:18.4858132+01:00",
+      "Time": 1659,
+      "Project": {
+        "Name": "IRIS.Law.WebserviceClients",
+        "Id": "a69f6658-45df-402c-bce8-79f8da1480bb"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.1539369+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DmBusiness",
+        "Id": "b364f7e4-86a6-46a3-8acf-31c975072369"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.2089478+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.DiaryData",
+        "Id": "e981a3eb-6703-497c-813c-25ad8f4db1e2"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.2399422+01:00",
+      "Time": 27,
+      "Project": {
+        "Name": "IRIS.Law.WebServiceInterfaces",
+        "Id": "a243faae-4d98-498c-a23f-44273df32cb7"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.8639879+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DiaryProviders",
+        "Id": "4ea63b27-7825-479e-9ebe-2a2aeebc6297"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.9009906+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "Solicitors.MsOffice",
+        "Id": "5a81c41a-c728-40a6-9d89-334b54fb7ca9"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.9119914+01:00",
+      "Time": 36,
+      "Project": {
+        "Name": "IRIS.Law.Remoting",
+        "Id": "c3e140d1-1782-4f18-a7bc-a7aede90e523"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:17.9937765+01:00",
+      "Time": 3460,
+      "Project": {
+        "Name": "IRISLegal.Infrastructure",
+        "Id": "bdebc21a-ba9a-4127-938f-ff84c7e57ffa"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:21.5300368+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.DictationProviders",
+        "Id": "afa439b3-ae28-4b40-bd19-bb5c4780e600"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:21.5690394+01:00",
+      "Time": 810,
+      "Project": {
+        "Name": "IRIS.Law.Server.DataAccess",
+        "Id": "6336be3e-b97a-4038-b5ff-2aebe996724a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.4081092+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.PmsInfrastructure",
+        "Id": "4a2354a1-a527-4d22-a75c-2824f1be284c"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.4501045+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "IRIS.Law.PmsData",
+        "Id": "465bac16-5015-460e-82f9-29f17e24308d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.470106+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsLogManager",
+        "Id": "03bde837-c919-4447-9e95-d8c638383881"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:20.876989+01:00",
+      "Time": 1663,
+      "Project": {
+        "Name": "IRIS.Law.DocumentProduction",
+        "Id": "47ece5d2-2621-42b2-b12d-de2fb9fd7cb5"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.5561124+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "IRIS.Law.PmsBusiness",
+        "Id": "d451bf97-6c7f-46dc-ba68-0e2573aa6010"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.5841144+01:00",
+      "Time": 1,
+      "Project": {
+        "Name": "IRIS.Law.PmsCommonServices",
+        "Id": "a08fe8b7-6814-44a7-81c1-706a823ca06d"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.6091173+01:00",
+      "Time": 3,
+      "Project": {
+        "Name": "IRIS.Law.ControlLib",
+        "Id": "7456ec2c-7e8d-41d2-88fc-149c1273d6bf"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.6801212+01:00",
+      "Time": 8,
+      "Project": {
+        "Name": "IRIS.Law.Services",
+        "Id": "586416ef-4073-48da-afef-d38c71f79d01"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.7101258+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.SharedWpf",
+        "Id": "7ca76574-2b5f-44bf-9115-2d3d27c6efdd"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.7291253+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.DmInterop",
+        "Id": "e501a24a-b0c5-46e5-b8a8-57a6a24ca232"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:22.7471262+01:00",
+      "Time": 3525,
+      "Project": {
+        "Name": "IRIS.Law.DpCore",
+        "Id": "c13b0bec-cf16-42bc-adc4-45dbd1fae3f9"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:26.3343904+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRISLegal.SqlRepositories",
+        "Id": "ca04d88b-ca22-486f-9726-577e34020d4a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:26.3523909+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.MetaData",
+        "Id": "2ed9c34a-8e3d-4c55-842c-ae2b5966d4ff"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:26.413396+01:00",
+      "Time": 5,
+      "Project": {
+        "Name": "Legal.Solicitors.Client",
+        "Id": "6081e1ab-32bf-4d59-b1fc-7acd0c602dbd"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:26.433399+01:00",
+      "Time": 2,
+      "Project": {
+        "Name": "IRIS.Law.Entities",
+        "Id": "80e3be63-9fe8-4796-84cc-98ec175593fe"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:30:26.4454+01:00",
+      "Time": 35626,
+      "Project": {
+        "Name": "IRIS.Law.PmsApplication",
+        "Id": "64a5eb6c-f5b6-4238-9986-e5e97605523a"
+      }
+    },
+    {
+      "Start": "2016-03-30T15:31:02.386039+01:00",
+      "Time": 1041,
+      "Project": {
+        "Name": "IRIS.Law.PmsExe",
+        "Id": "07a5e895-679c-4040-b975-e88fa6284210"
+      }
+    }
+  ]
+}]
